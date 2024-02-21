@@ -1,0 +1,26 @@
+section{
+    color: white;
+	background: black;
+}
+.tete{
+	background: red;
+	padding: 200px;
+	background: url(../img/1705251911274.jpg) center/cover;
+	color: white;
+}
+.sous{
+	color: white;
+}
+.mara{
+	color:  white;
+}
+body{
+	background: black;
+}
+hr{
+	color: black;
+	width: 150px;
+}
+footer{
+	background: black;
+}
